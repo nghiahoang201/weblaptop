@@ -1,0 +1,78 @@
+.thongke{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.thongke2{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.khoi1{
+    height: 120px;
+    padding-top: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: rgb(0, 255, 34);
+    flex:1;
+    margin: 0 10px 0 0;
+}
+.khoi2{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: cornflowerblue;
+    flex:1;
+    margin: 0 10px 0 0;
+}
+.khoi3{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    background-color: crimson;
+    flex:1;
+    margin: 0 10px 0 0;
+}
+.khoi4{
+    padding-top: 8px;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    background-color:khaki;
+    flex:1;
+}
+.icon-thongke{
+    margin-right: 4px;
+}
+.anhLapTop{
+    text-align: center;
+    font-size: 15px;
+    flex: 1;
+     margin: 0 10px 0 0;
+}
+.anhLapTop2{
+    text-align: center;
+    flex: 1;
+    font-size:15px;
+     margin: 0 10px 0 0;
+}
+.anhLapTop3{
+    text-align: center;
+    flex: 1;
+    font-size: 15px;
+}
+.anhLapTop4{
+    text-align: center;
+    flex: 1;
+    font-size: 15px;
+}
+.heading-thongke{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 10px;
+}
